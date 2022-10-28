@@ -1,0 +1,35 @@
+.headerlogo{
+    /* 
+    width: 300;
+    height: 200;
+    */
+    margin-top: 2%;
+    margin-left: 2%;
+}
+
+.navlink{
+    float: right;
+    width: 12%;
+    font-size: 40px;
+    text-align: center;
+    margin-right: 3%;
+    margin-top: 8%;
+    text-decoration: none;
+    color: black;
+    border-radius: 30px;
+    /*
+    background-color: aqua;
+    border: red 2px solid;
+    */
+}
+
+.navlink:hover{
+    background-color: blue;
+    color: white;
+}
+
+.navlink:active{
+    background-color: blue;
+    color: white;
+}
+
