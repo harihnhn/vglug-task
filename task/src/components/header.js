@@ -27,8 +27,6 @@ function Header() {
             <NavLink className={"navlink"} to="/contact">Contact</NavLink>
             <NavLink className={"navlink"} to="/about">About</NavLink>
             <NavLink className={"navlink"} to="/home">Home</NavLink>
-            <hr/>
-            
         </div>
     );
 }

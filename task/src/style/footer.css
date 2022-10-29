@@ -2,17 +2,18 @@ table{
     width: 50%;
     float: right;
     font-size: 20px;
-    margin-right: 15%;
-    margin-top: 0.9%;
+    margin-right: 5%;
+    margin-top: 1.5%;
     vertical-align: middle;
-}
-
-table a{
-    margin: 0%;
 }
 
 table th{
     text-align: left;
+    width: 50%;
+}
+
+.contact_logo{
+    width: 7%;
 }
 
 /*this property change whole page */
@@ -21,11 +22,10 @@ div{
 }
 
 .footerimage{
-    margin-top: 0.9%;
-    margin-bottom: 1.5%;
-    margin-left: 2%;
+    margin-top: 1.5%;
+    margin-bottom: 2%;
+    margin-left: 4%;
 }
-
 
 .footer{
     background-color: rgb(89, 87, 87);
@@ -37,6 +37,7 @@ a{
     text-decoration: none;
 }
 
-.c1{
-    width: 50%;
+td a:hover{
+    text-decoration: underline;
+    color: rgb(102, 163, 255);
 }

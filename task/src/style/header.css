@@ -24,12 +24,16 @@
 }
 
 .navlink:hover{
-    background-color: blue;
-    color: white;
+    color: black;
+    border: black 0.1em solid;
 }
 
 .navlink:active{
-    background-color: blue;
+    background-color: rgb(8, 107, 255);
     color: white;
 }
 
+.active{
+    background-color: rgb(8, 107, 255);
+    color: white;
+}
